@@ -187,7 +187,7 @@
 				<Title>linee_veneto</Title>
 				<Abstract>GH:linee_veneto ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:13</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:11</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="10.63299230039888" miny="44.84920375891255" maxx="13.04461073824656" maxy="46.48476819880306"></LatLonBoundingBox>
