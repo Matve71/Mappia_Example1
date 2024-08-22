@@ -287,7 +287,7 @@
 				<Title>comuni</Title>
 				<Abstract>GH:comuni ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:12</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="11.276725305456415" miny="45.48294113893071" maxx="11.624777030027461" maxy="45.77922219362383"></LatLonBoundingBox>
@@ -307,7 +307,7 @@
 				<Title>linea</Title>
 				<Abstract>GH:linea ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:12</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="11.348556211186379" miny="45.54054609501452" maxx="11.575036560218466" maxy="45.711681410983765"></LatLonBoundingBox>
@@ -327,7 +327,7 @@
 				<Title>tracciato_new</Title>
 				<Abstract>GH:tracciato_new ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:12</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="11.559726266098375" miny="45.55853325724086" maxx="11.576700486906002" maxy="45.577849790592175"></LatLonBoundingBox>
@@ -347,7 +347,7 @@
 				<Title>tracciato_old</Title>
 				<Abstract>GH:tracciato_old ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:12</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="11.569142488001638" miny="45.55858035998931" maxx="11.573023131258187" maxy="45.56062476038596"></LatLonBoundingBox>
