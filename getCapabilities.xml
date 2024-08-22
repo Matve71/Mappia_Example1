@@ -230,13 +230,13 @@
 				<Styles></Styles>
 			</TileSet>
 			<CustomLayer>
-				<Name>GH:pl_veneto</Name>
-				<Title>pl_veneto</Title>
+				<Name>GH:stazioni_veneto_rfi</Name>
+				<Title>stazioni_veneto_rfi</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
-				<Name>GH:stazioni_veneto_rfi</Name>
-				<Title>stazioni_veneto_rfi</Title>
+				<Name>GH:pl_veneto</Name>
+				<Title>pl_veneto</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
